@@ -1,5 +1,6 @@
 ## Introduction 
 
+
 This is a  Python framework  for learning the parameters of the  <a href="https://link.springer.com/chapter/10.1007/978-3-319-66799-7_12">Arrhenius model</a>, an elementary step
 model of DNA structure kinetics with locally context-dependent Arrhenius rates [1].   Additonally,  it  can infer parameters for the Metropolis model implemented  in Multistrand [2]. 
 
@@ -154,3 +155,7 @@ Journal of Computational Chemistry 32, 170{173 (2011)
 [13]  Machinek, R.R., Ouldridge, T.E., Haley, N.E., Bath, J., TurberField, A.J.: Programmable energy landscapes for kinetic control of DNA strand displacement. Nature Communications 5 (2014)
 
 [14] Dabby, N.L.: Synthetic molecular machines for active self-assembly: prototype algorithms, designs, and experimental study. Ph.D. thesis, California Institute of Technology (2013). 
+
+
+
+***Test***
